@@ -1,8 +1,11 @@
+#Shell Script to compress large files within the current directory or within a given directory. Contains error checking
+
+
 #!/bin/bash
 
 exp='^[0-9]+$' 
 size=$1
-junk=0
+junk=0en directory
 increment=0
 temporary=0
 temp=0
