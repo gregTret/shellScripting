@@ -1,4 +1,5 @@
 This repository contains a collection of my Shell scripting projects
 
 Contents
- 	compress_large_files.sh---------------Searches immediate directory or given directory for all files greater than a given size and compresses those fies
+ 	compress_large_files.sh---------------Searches immediate directory or given directory for all files greater than a given 
+                                        size and compresses those fies.
